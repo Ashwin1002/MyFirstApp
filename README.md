@@ -13,7 +13,9 @@ A few resources to get started as this is my first Flutter project:
 
 ## Screenshots of this app
 
+<img src="https://user-images.githubusercontent.com/47735067/145680217-46e85f74-3511-4292-8b2a-9d8c09d31b4a.png" width="48">
 ![Screenshot_1639232926](https://user-images.githubusercontent.com/47735067/145680217-46e85f74-3511-4292-8b2a-9d8c09d31b4a.png)
+<br>
 <br>
 ![Screenshot_1639232936](https://user-images.githubusercontent.com/47735067/145680224-e22358bb-eff8-4d81-8ce4-a673b56103df.png)
 
